@@ -24,13 +24,19 @@ The dashboard provides an interactive view of patient and hospital data across *
 
 Provides a high-level summary of patient counts, billing amounts, hospital admissions, and common medical conditions.
 
+![Healthcare Dashboard Overview](Overview.png)
+
 ### 2. Demographics
 
 Analyzes patient demographics including age groups, gender, and blood type distribution.
 
+![Healthcare Demographics Dashboard](Demographics.png)
+
 ### 3. Insights
 
 Provides deeper analysis of hospital admissions, treatment costs, state-wise trends, and medication/drug data.
+
+![Healthcare Insights Dashboard](Insights.png)
 
 ## 🛠️ Tools & Technologies
 
