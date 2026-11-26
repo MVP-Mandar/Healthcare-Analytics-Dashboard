@@ -1,4 +1,4 @@
-# Healthcare-Analytics-Dashboard – Power BI
+# Healthcare-Analytics – Power BI
 
 An interactive **Healthcare Analysis Dashboard built with Power BI**, analyzing **55,500 patient records from 10 major U.S. hospitals between 2019 and 2024** to uncover healthcare trends, patient demographics, hospital performance, and treatment insights.
 
